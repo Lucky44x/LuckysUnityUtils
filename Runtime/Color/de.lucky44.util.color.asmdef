@@ -1,0 +1,14 @@
+{
+    "name": "de.lucky44.util.color",
+    "rootNamespace": "Lucky44.Util.Color",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

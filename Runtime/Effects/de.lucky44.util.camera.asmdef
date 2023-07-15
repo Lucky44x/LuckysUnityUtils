@@ -1,0 +1,16 @@
+{
+    "name": "de.lucky44.util.effects",
+    "rootNamespace": "Lucky44.Util.Effects",
+    "references": [
+        "GUID:acaf540239e809745b5a048af1cd60be"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
